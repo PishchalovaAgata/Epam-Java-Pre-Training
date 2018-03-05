@@ -1,0 +1,4 @@
+This first part is a step-by-step introduction to OOP using the Java language.
+The tutorial begins with an overview of the Java platform and language, followed by instructions for setting up a development environment consisting of a Java Development Kit (JDK) and the Eclipse IDE.
+After you're introduced to your development environment's components, you begin learning basic Java syntax hands-on.
+Part covers more-advanced language features, including regular expressions, generics, IO, and serialization. Programming examples in Part 2 build on the Person object that you begin developing in Part 1.
