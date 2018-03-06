@@ -33,12 +33,4 @@ public class Controller {
 
 
     }
-
-    private static Text parseText(String source) {
-        TextParser parser = new TextParser();
-        parser.parseData(source);
-        return parser.getText();
-    }
-
-
 }

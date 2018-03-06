@@ -13,8 +13,8 @@ public class Sentence implements Comparable<Sentence> {
         partsOfSentence.add(word);
     }
 
-    public void addPunctuation(Punctuation mark) {
-        partsOfSentence.add(mark);
+    public void addPunctuation(Punctuation punctuation) {
+        partsOfSentence.add(punctuation);
     }
 
     @Override

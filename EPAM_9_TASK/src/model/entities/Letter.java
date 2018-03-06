@@ -3,9 +3,6 @@ package model.entities;
 public class Letter {
     private String value;
 
-    public Letter() {
-    }
-
     public Letter(String value) {
         this.value = value;
     }

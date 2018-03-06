@@ -1,9 +1,6 @@
 package model.entities;
 
-import model.entities.Sentence;
-
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Paragraph {
